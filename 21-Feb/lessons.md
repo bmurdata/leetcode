@@ -6,3 +6,9 @@ I have the right solutions and ideas, focus on the code for it.
 
 Focus areas: Dynamic programming. Kandanes algorithim.   
 https://leetcode.com/problems/maximum-subarray/discuss/20193/DP-solution-and-some-thoughts
+
+# Lessons on 02
+
+Focus on BST, BST traversal and recursion. 
+
+ Cleared Med-669 on my own without hints! Woot! 
