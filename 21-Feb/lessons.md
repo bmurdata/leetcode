@@ -12,3 +12,8 @@ https://leetcode.com/problems/maximum-subarray/discuss/20193/DP-solution-and-som
 Focus on BST, BST traversal and recursion. 
 
  Cleared Med-669 on my own without hints! Woot! 
+
+ # Lesson on 03
+
+ Valid Parenthesis
+ 
