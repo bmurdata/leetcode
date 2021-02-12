@@ -44,3 +44,11 @@ What I got right:
  I need to think outside the box. A solution involved using class methods, while I was stuck on the function. I should focus on class methods in Python or other languages more.  
 
  This was a good way to re-learn BST traversal, recursion, and class members for me. While I failed, I feel good about it.  
+
+ # Lesson on 10
+
+ Once again need to focus on class members outside the function of interest. Hash tables seem to be showing up in more and more solutions. I should keep them more in mind.
+
+ # Lesson on 11
+
+Today's leetcoding challenge was Valid Anagram. Easy- found the solution by using a hash table(dictionary), on the reasoning that each string have to have the same number of each letter in them. 
